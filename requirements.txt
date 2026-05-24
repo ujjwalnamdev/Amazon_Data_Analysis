@@ -1,0 +1,5 @@
+pandas
+NumPy
+Matplotlib
+Deaborn
+Jupyter notebook
