@@ -1,6 +1,6 @@
 # 📊 Amazon Product Analysis
 
-An end-to-end Data Analytics project focused on analyzing Amazon product data using Python, SQL, Tableau, and Streamlit concepts. This project demonstrates the complete analytics workflow including data cleaning, preprocessing, exploratory data analysis (EDA), feature engineering, business insight generation, SQL analysis, and interactive dashboard development.
+An end-to-end Data Analytics project focused on analyzing Amazon product data using Python, SQL, Tableau concepts . This project demonstrates the complete analytics workflow including data cleaning, preprocessing, exploratory data analysis (EDA), feature engineering, business insight generation and interactive dashboard development.
 
 ---
 
@@ -39,7 +39,7 @@ This project focuses on:
 | Matplotlib        | Data visualization            |
 | Seaborn           | Statistical visualization     |
 | Tableau           | Interactive dashboard         |
-| Jupyter Notebook  | Development environment       |
+| jupyter Notebook  | Development environment       |
 
 ---
 
@@ -237,8 +237,16 @@ Example:
 
 ```bash
 images/
-├── category_analysis.png
-└── rating_distribution.png
+├── ![Dashboard Overview](Amazon Data Visualization - Copy.png)
+├── ![KPI](KPI - Copy.png)
+├── ![Category wise avg rating](Category wise avg rating - Copy.png)
+├── ![Discount vs Rating](Discount vs Rating - Copy.png)
+├── ![Rating Distribution](Rating distribution.png)
+├── ![Top reviewed product](Top reviewed product - Copy.png)
+└── ![Top categories chart](Top categories chart - Copy.png) 
+ 
+
+
 ```
 
 ---
@@ -248,7 +256,7 @@ images/
 ## Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/ujjwalnamdev/Amazon_Data_Analysis>
 ```
 
 ## Navigate to Project Folder
@@ -284,7 +292,6 @@ pandas
 numpy
 matplotlib
 seaborn
-plotly
 jupyter
 notebook
 ```
@@ -299,7 +306,6 @@ This project helped in learning:
 - Data preprocessing techniques
 - Feature engineering
 - Exploratory Data Analysis
-- SQL querying
 - Business intelligence dashboarding
 - Data visualization best practices
 - Dashboard design optimization
@@ -345,11 +351,11 @@ This project demonstrates a complete end-to-end Data Analytics workflow starting
 The project showcases practical skills in:
 
 - Python
-- SQL
+- Pandas
+- NumPy 
 - Data Visualization
 - Business Analytics
-- Dashboard Development
 - Insight Generation
 
-making it a strong portfolio project for Data Analytics and Data Science roles.
+making it a strong portfolio project for Data Analytics and Initial Machine Learning roles.
 
